@@ -36,10 +36,7 @@ jobs:
         run: pip install git+https://${MKDOCS_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
 
       - name: Setup Docs Deploy
-        run: |
-          git config --global user.name Docs deploy
-          git config --global user.email docs@dummy.bot.com
+        run: git config --global user.name Docs
 
       - name: Build Docs Website
-#      - run: mkdocs gh-deploy --force
-      - run: mike deploy --push --update-aliases 0.1 latest
+        run: mike deploy --push --update-aliases 0.1 latest
