@@ -4,8 +4,8 @@ site_description: A hookup guide for the SparkFun Ideal Diode Breakout.
 site_url: https://sparkfun.github.io/SparkFun_Ideal_Diode_Breakout
 site_author: SparkFun Electronics
 
-repo_url: https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout
 repo_name: sparkfun/SparkFun_Ideal_Diode_Breakout
+repo_url: https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout
 
 copyright:
   Copyright 2023 - <a href="https://www.sparkfun.com/" target="_blank" rel="noopener">SparkFun Electronics&#174;<br>
@@ -206,6 +206,9 @@ markdown_extensions:
 extra:
   # Configures the hyperlink for the logo in the header
   homepage: https://www.sparkfun.com/
+
+  version: 
+    provider: mike
 
   # Configures social icons in the footer
   social:
