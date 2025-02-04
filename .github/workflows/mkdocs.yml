@@ -34,5 +34,11 @@ jobs:
         env:
           MKDOCS_TOKEN: ${{ secrets.MKDOCS_SECRET }}
         run: pip install git+https://${MKDOCS_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+
+      - name: Setup Docs Deploy
+        run: |
+          git config --global user.name "Docs Deploy"
+          git config --global user.email "lori.crotser@sparkfun.com"
+      - name: Build Docs Website
 #      - run: mkdocs gh-deploy --force
       - run: mike deploy --push --update-aliases 0.1 latest
