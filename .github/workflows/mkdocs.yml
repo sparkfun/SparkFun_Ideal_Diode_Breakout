@@ -15,17 +15,14 @@ jobs:
 
       - name: Install pgnquant for optimize plugin
         run: sudo apt-get install pngquant
-      
-      - name: Install mike for versioning
-        run: sudo apt-get install mike
-
+    
       - name: Set up Python runtime
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
 
       - name: Install Python dependencies
-        run: pip install mkdocs-monorepo-plugin mkdocs-redirects mkdocs-git-authors-plugin mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 Pillow 'mkdocs-material[imaging]'
+        run: pip install mkdocs-monorepo-plugin mkdocs-redirects mkdocs-git-authors-plugin mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 Pillow 'mkdocs-material[imaging]' mike
 
       - name: Set up build cache
         uses: actions/cache@v2
