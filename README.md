@@ -1,13 +1,12 @@
 SparkFun Ideal Diode Breakout
 ========================================
 
-[![SparkFun Ideal Diode Breakout]()](https://www.sparkfun.com/products/27925)
+[![SparkFun Ideal Diode Breakout](https://cdn.sparkfun.com/r/600-600/assets/parts/2/9/5/3/1/27925-Ideal-Diode-Breakout-Feature.jpg)](https://www.sparkfun.com/products/27925)
 
 [*SparkFun Ideal Diode Breakout (COM-27925)*](https://www.sparkfun.com/products/27925)
 
 ![Documentation - build](https://img.shields.io/github/actions/workflow/status/sparkfun/SparkFun_Ideal_Diode_Breakout/pages%2Fpages-build-deployment?label=Documentation)
 ![GitHub issues](https://img.shields.io/github/issues/sparkfun/SparkFun_Ideal_Diode_Breakout)
-
 
 Product Description
 
