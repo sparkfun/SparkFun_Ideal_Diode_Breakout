@@ -1,6 +1,6 @@
 # Did we make a mistake?
 
-Spot something wrong? Please let us know. <a href="https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/issues" alt="Issues"><img src="https://img.shields.io/github/issues/sparkfun/SparkFun_Qwiic_Navigation_Switch.svg" /></a>
+Spot something wrong? Please let us know. <a href="https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/issues" alt="Issues"><img src="https://img.shields.io/github/issues/sparkfun/SparkFun_Ideal_Diode_Breakout.svg" /></a>
 
 !!! attention
     This is not where customers should seek assistance on a product. If you require technical assistance or have questions about a product that is not working as expected, please head over to the [SparkFun Technical Assistance](https://www.sparkfun.com/technical_assistance) page for some initial troubleshooting.
@@ -14,10 +14,10 @@ Spot something wrong? Please let us know. <a href="https://github.com/sparkfun/S
 
 All of this documentation can be modified by you! Please help us make it better.
 
-* The documentation files for these pages are contained in the [`docs` folder of the SparkFun Qwiic Navigation Switch repository](https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/tree/main/docs).
+* The documentation files for these pages are contained in the [`docs` folder of the SparkFun Ideal Diode Breakout repository](https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/tree/main/docs).
 
 ### Spot something wrong?
-If a section of the documentation is incorrect, please [open an issue](https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/issues) and let us know.
+If a section of the documentation is incorrect, please [open an issue](https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/issues) and let us know.
 
 ### Do you have a suggested correction?
 1. With a GitHub account, fork this repo
@@ -30,14 +30,14 @@ If a section of the documentation is incorrect, please [open an issue](https://g
 
 All of our designs are open-source! Please help us make it better.
 
-* Our board design files are contained in the [`Hardware` folder of the SparkFun Qwiic Navigation Switch repository](https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/tree/main/Hardware).
+* Our board design files are contained in the [`Hardware` folder of the SparkFun Ideal Diode Breakout repository](https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/tree/main/Hardware).
 
 ### Does something not make sense?
-If part of the design is confusing, please [open an issue](https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/issues) and let us know.
+If part of the design is confusing, please [open an issue](https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/issues) and let us know.
 
 ### Did we forget to include an important function of the board?
 * Please keep in mind that we may intentionally exclude certain functions of the board to meet our product design requirements. *(For example, our Qwiic Micro boards are intended to fit on a small board layout and only use I<sup>2</sup>C communication; therefore, we may not have the SPI and interrupt pins available for users.)*
-* If part of the board's functionality is missing, please [open an issue](https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/issues) and file a feature request.
+* If part of the board's functionality is missing, please [open an issue](https://github.com/sparkfun/SparkFun Ideal Diode BreakoutSparkFun_Ideal_Diode_Breakout/issues) and file a feature request.
 
 ### Do you wish to contribute directly to improving the board design?
 1. With a GitHub account, Fork this repo

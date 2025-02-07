@@ -1,10 +1,10 @@
 # Contribute: Help Fix our Mistake!
-Spot something wrong? Feel free to contribute our open-source design and documentation. <a href="https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/issues-pr/sparkfun/SparkFun_Qwiic_Navigation_Switch.svg" /></a>
+Spot something wrong? Feel free to contribute our open-source design and documentation. <a href="https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/issues-pr/sparkfun/SparkFun_Ideal_Diode_Breakout.svg" /></a>
 
 ## Improve our Documentation
 All of this documentation can be modified by you! Please help us make it better.
 
-* These pages are contained in the [`docs` folder of the SparkFun Qwiic Navigation Switch repository](https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/tree/main/docs).
+* These pages are contained in the [`docs` folder of the SparkFun Ideal Diode Breakout repository](https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/tree/main/docs).
 
 ### Submit a Correction
 1. Fork this repo
@@ -16,7 +16,7 @@ All of this documentation can be modified by you! Please help us make it better.
 ## Improve our Hardware Design
 All of our designs are open-source! Please help us make it better.
 
-* Our board design files are contained in the [`Hardware` folder of the SparkFun Qwiic Navigation Switch repository](https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/tree/main/Hardware).
+* Our board design files are contained in the [`Hardware` folder of the SparkFun Ideal Diode Breakout repository](https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/tree/main/Hardware).
 
 ### Submit a Design Improvement
 1. Fork this repo
@@ -28,6 +28,6 @@ All of our designs are open-source! Please help us make it better.
 ## Contributors
 Let's provided some recognition to the contributors for this project!
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=sparkfun/SparkFun_Qwiic_Navigation_Switch)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=sparkfun/SparkFun_Ideal_Diode_Breakout)
 <br>
-<a href="https://github.com/sparkfun/SparkFun_Qwiic_Navigation_Switch/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/contributors/sparkfun/SparkFun_Qwiic_Navigation_Switch.svg" /></a>
+<a href="https://github.com/sparkfun/SparkFun_Ideal_Diode_Breakout/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/contributors/sparkfun/SparkFun_Ideal_Diode_Breakout.svg" /></a>

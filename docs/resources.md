@@ -1,4 +1,4 @@
-Now that you've successfully got your SparkFun Qwiic Navigation Switch up and running, it's time to incorporate it into your own project! For more information, check out the resources below:
+For more information, check out the resources below:
 
 * [Ideal Diode Characteristics (PDF)](../assets/board_files/IdealDiodeCharacteristics-Graphs.pdf)
 * [Schematic (PDF)](../assets/board_files/27925_SparkFun_Ideal_Diode_Breakout_Schematic.pdf)
