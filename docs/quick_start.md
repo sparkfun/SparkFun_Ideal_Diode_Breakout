@@ -12,10 +12,14 @@ hide: toc
     ---
 
     <figure markdown>
-    ![Product Thumbnail](assets/img/26060-IoT-Node-LoRaWAN-Feature.jpg)
+    ![Product Thumbnail](assets/img/27925-Ideal-Diode-Breakout-Feature.jpg)
     </figure></a>
     
--    The SparkFun Ideal Diode Breakout is awesome. Buy it.
+
+-    Need some extra help keeping your project up and running while hot-swapping power supplies? The SparkFun Ideal Diode Breakout is - you guessed it - ideal. We've designed this small but mighty breakout to have four channels available as well as Ground for all your one-way voltage needs. 
+
+    Ideal diodes are designed to control the direction of current flow and provide significant reductions in forward voltage drop, internal power dissipation, and reverse DC leakage current. This is perfect for dynamic power selection and switchover as well as over-voltage protection and projects that require consistent power input. 
+
 
     <center>
     [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/27925){ .md-button .md-button--primary }
@@ -26,6 +30,8 @@ hide: toc
 ## Getting Started 
 
 The SparkFun Ideal Diode Breakout is the perfect addition to your project if you need to avoid a large voltage drop across a circuit. There is no minimum threshold voltage required and no internal resistance. It is appropriately named as "ideal"! 
+
+
 
 ## Hooking Up the Breakout
 
