@@ -8,7 +8,9 @@ SparkFun Ideal Diode Breakout
 ![Documentation - build](https://img.shields.io/github/actions/workflow/status/sparkfun/SparkFun_Ideal_Diode_Breakout/pages%2Fpages-build-deployment?label=Documentation)
 ![GitHub issues](https://img.shields.io/github/issues/sparkfun/SparkFun_Ideal_Diode_Breakout)
 
-Product Description
+Keep your project powered up during power supply hot-swaps with the SparkFun Ideal Diode Breakout. This compact (15.2mm x 12.7mm) breakout board features four channels and ground connections, providing reliable one-way voltage control. Ideal diodes minimize forward voltage drop, internal power dissipation, and reverse DC leakage current, making them perfect for dynamic power selection and switchover, over-voltage protection, and projects requiring stable power input.
+
+This breakout boasts impressive performance with a typical forward voltage drop as low as 8mV at 0.1A (20V input) and 62mV at 1A (20V input), ensuring efficient power delivery. For higher current applications, the forward voltage drop is typically 275mV at 4A (20V input). The typical on-resistance ranges from 69mΩ (20V, 4A) to 260mΩ (1.8V, 0.1A), depending on the input voltage and current. Reverse leakage current is minimal, ranging from -50µA to -560µA depending on reverse voltage and again on the input voltage.
 
 
 Repository Contents
