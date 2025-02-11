@@ -29,9 +29,16 @@ hide: toc
 
 ## Getting Started 
 
-The SparkFun Ideal Diode Breakout is the perfect addition to your project if you need to avoid a large voltage drop across a circuit. There is no minimum threshold voltage required and no internal resistance. It is appropriately named as "ideal"! 
+The SparkFun Ideal Diode Breakout is the perfect addition to your project if you need to avoid a large voltage drop across a circuit. There is no minimum threshold voltage required and no internal resistance. It is also incredibly useful for swapping power supplies in situ 
 
 
 
 ## Hooking Up the Breakout
 
+Hooking up the SparkFun Ideal Diode Breakout is fairly straightforward. Power inputs go through two separate input circuits but have a common ground. Have a look at this quick example: 
+
+
+<figure markdown>
+[![Hot Swapping Power Supply](../assets/img/hookup.png){ width="90%" }](../assets/img/hookup.png "Click to enlarge")
+<figcaption markdown>Hot Swapping a Power Supply to a RedBoard</figcaption>
+</figure>

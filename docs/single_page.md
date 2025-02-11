@@ -6,19 +6,13 @@ icon: fontawesome/solid/scroll
 ---
 
 # Introduction
---8<-- "./docs/introduction.md"
+--8<-- "./docs/quick_start.md"
 
 # Hardware Overview
 --8<-- "./docs/hardware_overview.md"
 
 # Hardware Hookup
 --8<-- "./docs/hardware_hookup.md"
-
-# Setting Up Arduino
---8<-- "./docs/arduino_library.md"
-
-# Arduino Examples
---8<-- "./docs/arduino_example.md"
 
 # Troubleshooting
 --8<-- "./docs/troubleshooting.md"
