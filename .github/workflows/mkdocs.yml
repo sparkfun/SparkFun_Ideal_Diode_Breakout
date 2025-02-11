@@ -25,7 +25,7 @@ jobs:
         run: pip install mkdocs-monorepo-plugin mkdocs-redirects mkdocs-git-authors-plugin mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 Pillow 'mkdocs-material[imaging]' mike
 
       - name: Set up build cache
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           key: ${{ github.ref }}
           path: .cache
