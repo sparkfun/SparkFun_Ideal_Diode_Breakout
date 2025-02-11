@@ -260,9 +260,7 @@ extra_javascript:
 # Configures webpage navigation
 nav:
   - Quick Start Guide: quick_start.md
-  - Hardware: 
-    - Overview: hardware_overview.md
-    - Assembly: hardware_hookup.md
+  - Hardware Overview: hardware_overview.md
   - Resources: resources.md
   - Support:
     - Troubleshooting: troubleshooting.md

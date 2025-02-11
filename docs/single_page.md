@@ -11,9 +11,6 @@ icon: fontawesome/solid/scroll
 # Hardware Overview
 --8<-- "./docs/hardware_overview.md"
 
-# Hardware Hookup
---8<-- "./docs/hardware_hookup.md"
-
 # Troubleshooting
 --8<-- "./docs/troubleshooting.md"
 

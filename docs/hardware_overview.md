@@ -1,6 +1,11 @@
 ---
 icon: material/cog
 ---
+## Overview
+
+The SparkFun Ideal Diode Breakout uses four MOSFET P-CH SOT23 chips and four transistor arrays to provide four inputs and four outputs as well as a single common ground.  
+
+
 
 ## Typical Characteristics
 

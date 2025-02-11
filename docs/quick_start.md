@@ -30,7 +30,16 @@ hide: toc
 
 ## Hooking Up the Breakout
 
-Hooking up the SparkFun Ideal Diode Breakout is fairly straightforward. Power inputs go through two separate input circuits but have a common ground. Have a look at this quick example: 
+Hooking up the SparkFun Ideal Diode Breakout is fairly straightforward. Power inputs go through two separate input circuits but have a common ground. A quick example shows consistent current being supplied to the board from two separate power supplies. Note that as one power supply decreases, the other draw increases to provide consistent voltage: 
+
+
+
+<figure markdown>
+[![Hot Swapping Power Supply](../assets/img/Ideal-Diode-Breakout-Action-GIF.gif){ width="90%" }](../assets/img/Ideal-Diode-Breakout-Action-GIF.gif "Click to enlarge")
+<figcaption markdown>Hot Swapping a Power Supply to a RedBoard</figcaption>
+</figure>
+
+Hookup looks something like the following: 
 
 
 <figure markdown>
