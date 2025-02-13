@@ -84,7 +84,7 @@ A 3D model of the board and components was exported to a STEP file using KiCad.
 
 ### Board Dimensions
 
-The board measures 15.2mm x 12.7mm. 
+The board measures 15.2mm x 12.7mm(0.5 x 0.6 inches). 
 
 <figure markdown>
 [![Board Dimensions are 15.2mm by 12.7mm](../assets/board_files/SparkFun_Ideal_Diode_Breakout_Dimensions.png){ width="50%" }](../assets/board_files/SparkFun_Ideal_Diode_Breakout_Dimensions.png "Click to enlarge")
