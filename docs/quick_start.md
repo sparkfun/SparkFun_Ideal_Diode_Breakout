@@ -36,7 +36,7 @@ Hooking up the SparkFun Ideal Diode Breakout is fairly straightforward. Power in
 
 <figure markdown>
 [![Hot Swapping Power Supply](../assets/img/Ideal-Diode-Breakout-Action-GIF.gif){ width="90%" }](../assets/img/Ideal-Diode-Breakout-Action-GIF.gif "Click to enlarge")
-<figcaption markdown>Hot Swapping a Power Supply to a RedBoard</figcaption>
+<figcaption markdown>Hot Swapping a Power Supply to a Motor</figcaption>
 </figure>
 
 Hookup looks something like the following: 
@@ -44,7 +44,7 @@ Hookup looks something like the following:
 
 <figure markdown>
 [![Hot Swapping Power Supply](../assets/img/hookup.png){ width="90%" }](../assets/img/hookup.png "Click to enlarge")
-<figcaption markdown>Hot Swapping a Power Supply to a RedBoard</figcaption>
+<figcaption markdown>Hot Swapping a Power Supply to a Motor</figcaption>
 </figure>
 
 
